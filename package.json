@@ -1,0 +1,31 @@
+{
+  "name": "await-fs",
+  "version": "1.0.0",
+  "description": "fs wrapper for async await magic",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "engines": {
+	  "node":">=7.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Globik/await-fs.git"
+  },
+  "keywords": [
+    "koa",
+    "async",
+    "await",
+    "fs"
+  ],
+  "author": "Globalik Slivov <globalikslivov@gmail.com> (https://github.com/Globik)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Globik/await-fs/issues"
+  },
+  "homepage": "https://github.com/Globik/await-fs#readme"
+}
